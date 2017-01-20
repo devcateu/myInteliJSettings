@@ -4,12 +4,12 @@
       <HostingBean>
         <baseRestUri>https://api.bitbucket.org/2.0/</baseRestUri>
         <baseUri>https://bitbucket.org/</baseUri>
-        <id>0f83ff30-5b92-432d-9b59-04bc3a53bd9d</id>
+        <id>4c90a677-a28a-47f5-8300-5738ab8e0de0</id>
         <type>CLOUD</type>
       </HostingBean>
     </hostings>
     <accessMap>
-      <entry value="0f83ff30-5b92-432d-9b59-04bc3a53bd9d">
+      <entry value="4c90a677-a28a-47f5-8300-5738ab8e0de0">
         <HostingAccessBean>
           <host>bitbucket.org</host>
           <port>-1</port>
