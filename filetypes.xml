@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="cert" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping pattern="userPersistance" type="Properties" />
       <mapping ext="fnc" type="DBN-PSQL" />
