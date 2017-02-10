@@ -26,6 +26,10 @@
           <option name="url" value="https://slawekkowalski@bitbucket.org/masterdegreesk/catalog.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://slawekkowalski@bitbucket.org/slawekkowalski/eventsourcing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\projects\java\masterDegree" />
